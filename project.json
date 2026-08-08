@@ -1,0 +1,10 @@
+{
+  "projectName": "AI Career & Learning Navigator",
+  "tagline": "From Aspiration to an Achievable Plan",
+  "problemStatement": "Help women convert career aspirations into realistic, personalized learning and career action plans.",
+  "objective": "Analyze a user's education, experience, skills, goals, available time, budget and responsibilities to create a personalized career roadmap.",
+  "platform": "AWS PartyRock",
+  "aiTechnology": "Amazon Bedrock foundation models",
+  "author": "GEETHIKA ALETI",
+  "version": "1.0.0"
+}
