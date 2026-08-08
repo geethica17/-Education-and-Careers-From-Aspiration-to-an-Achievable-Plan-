@@ -1,0 +1,22 @@
+{
+  "widgetName": "Recommended Learning Resources",
+  "prompt": "Recommend suitable learning resources based on the user's specific skill gaps, available time, budget and difficulty level.",
+  "resourceFields": [
+    "Resource Type",
+    "Skill Covered",
+    "Why Recommended",
+    "Difficulty",
+    "Estimated Time",
+    "Cost Category",
+    "Expected Outcome"
+  ],
+  "rules": [
+    "Connect every recommendation to a skill gap.",
+    "Consider affordable options.",
+    "Do not recommend resources only because they are popular."
+  ],
+  "inputReferences": [
+    "@Skill Gap Map",
+    "@Learning Plan"
+  ]
+}
