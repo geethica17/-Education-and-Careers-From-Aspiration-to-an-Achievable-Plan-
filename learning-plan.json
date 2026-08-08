@@ -1,0 +1,28 @@
+{
+  "widgetName": "30 / 60 / 90 Day Learning Plan",
+  "prompt": "Create a personalized learning roadmap based on the user's career goal, skill gaps, available hours, responsibilities, confidence and budget.",
+  "durationOptions": [
+    30,
+    60,
+    90
+  ],
+  "weeklyFields": [
+    "Week",
+    "Learning Goal",
+    "Skills Covered",
+    "Practice Activity",
+    "Estimated Hours",
+    "Expected Outcome",
+    "Proof Of Learning"
+  ],
+  "rules": [
+    "Use realistic workloads.",
+    "Prioritize important skills.",
+    "Consider available weekly hours.",
+    "Do not overload the user."
+  ],
+  "inputReferences": [
+    "@Career Assessment",
+    "@Skill Gap Map"
+  ]
+}
