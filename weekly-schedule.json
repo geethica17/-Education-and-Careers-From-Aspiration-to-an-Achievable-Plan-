@@ -1,0 +1,22 @@
+{
+  "widgetName": "My Weekly Schedule",
+  "prompt": "Create a realistic weekly learning schedule based on the user's available hours.",
+  "scheduleFields": [
+    "Day",
+    "Activity",
+    "Learning Topic",
+    "Practice",
+    "Hours",
+    "Expected Result"
+  ],
+  "rules": [
+    "Respect available weekly hours.",
+    "Prioritize high-value activities.",
+    "Include reasonable rest time.",
+    "Allow flexibility for responsibilities."
+  ],
+  "inputReferences": [
+    "@Career Assessment",
+    "@Learning Plan"
+  ]
+}
