@@ -1,0 +1,28 @@
+{
+  "appName": "AI Career & Learning Navigator",
+  "description": "A GenAI-powered career planning assistant for personalized career guidance.",
+  "input": "Career Profile",
+  "output": [
+    "Career Assessment",
+    "Recommended Career",
+    "Transferable Skills",
+    "Skill Gap",
+    "Learning Plan",
+    "Weekly Schedule",
+    "Learning Resources",
+    "Portfolio Project",
+    "Interview Preparation",
+    "Recovery Plan",
+    "Career Readiness Score",
+    "Next Career Action"
+  ],
+  "principles": [
+    "Personalized",
+    "Strength-based",
+    "Realistic",
+    "Flexible",
+    "Action-oriented",
+    "Measurable",
+    "Responsible"
+  ]
+}
