@@ -1,0 +1,33 @@
+{
+  "widgetName": "Proof of Learning",
+  "prompt": "Create one practical project that allows the user to demonstrate skills required for their target career.",
+  "projectTypes": [
+    "Portfolio Project",
+    "Case Study",
+    "Dashboard",
+    "Coding Project",
+    "Presentation",
+    "Business Analysis",
+    "Interview Task"
+  ],
+  "outputFields": [
+    "Project Title",
+    "Objective",
+    "Skills Demonstrated",
+    "Tools Required",
+    "Step By Step Tasks",
+    "Expected Final Output",
+    "Employer Explanation",
+    "Resume Description"
+  ],
+  "rules": [
+    "Keep the project achievable.",
+    "Match the project to the target career.",
+    "Use the user's available time."
+  ],
+  "inputReferences": [
+    "@Recommended Career Destination",
+    "@Skill Gap Map",
+    "@Learning Plan"
+  ]
+}
