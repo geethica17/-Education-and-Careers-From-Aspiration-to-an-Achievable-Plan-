@@ -1,0 +1,24 @@
+{
+  "widgetName": "Recommended Career Destination",
+  "prompt": "Recommend up to three realistic target career roles based on the user's education, experience, skills, interests, constraints and available time.",
+  "maximumRecommendations": 3,
+  "rankingCriteria": [
+    "Skill Match",
+    "Experience Match",
+    "Career Goal Match",
+    "Learning Effort",
+    "Time Availability",
+    "Entry-Level Suitability"
+  ],
+  "outputFields": [
+    "Role Name",
+    "Why It Fits",
+    "Existing Skills",
+    "Transferable Skills",
+    "Missing Skills",
+    "Learning Effort",
+    "Entry-Level Suitability",
+    "First Action"
+  ],
+  "inputReference": "@Career Assessment"
+}
