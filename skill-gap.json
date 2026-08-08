@@ -1,0 +1,21 @@
+{
+  "widgetName": "Skill Gap Map",
+  "prompt": "Analyze the skills required for the user's recommended career and compare them with the user's current skills.",
+  "skillCategories": {
+    "strong": "Skills the user already demonstrates",
+    "developing": "Skills that need improvement",
+    "priority": "Essential skills that should be learned first"
+  },
+  "outputFields": [
+    "Skill",
+    "Status",
+    "Importance",
+    "WhyItMatters",
+    "PracticeActivity"
+  ],
+  "inputReferences": [
+    "@Career Assessment",
+    "@Recommended Career Destination",
+    "@Transferable Skills"
+  ]
+}
