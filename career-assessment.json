@@ -1,0 +1,21 @@
+{
+  "widgetName": "Career Assessment",
+  "prompt": "Analyze the user's career profile and identify their career goal, education strengths, technical skills, soft skills, transferable skills, previous experience, constraints, available learning time, budget and confidence.",
+  "instructions": [
+    "Focus on strengths as well as gaps.",
+    "Do not assume a career-break user has no useful experience.",
+    "Identify practical transferable skills.",
+    "Consider the user's available time and responsibilities."
+  ],
+  "inputReference": "@Career Profile",
+  "outputSections": [
+    "Career Goal",
+    "Current Situation",
+    "Education Strengths",
+    "Technical Skills",
+    "Soft Skills",
+    "Transferable Skills",
+    "Constraints",
+    "Career Opportunities"
+  ]
+}
