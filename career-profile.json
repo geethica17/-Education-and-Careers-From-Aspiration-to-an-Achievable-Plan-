@@ -1,0 +1,18 @@
+{
+  "widgetName": "Career Profile",
+  "type": "user_input",
+  "prompt": "Enter your career profile including education, previous experience, career break, current skills, career goal, preferred industry, available hours per week, learning budget, responsibilities, confidence level and accessibility preferences.",
+  "fields": [
+    "education",
+    "previousExperience",
+    "careerBreak",
+    "currentSkills",
+    "careerGoal",
+    "preferredIndustry",
+    "availableHoursPerWeek",
+    "learningBudget",
+    "responsibilities",
+    "confidenceLevel",
+    "accessibilityPreferences"
+  ]
+}
