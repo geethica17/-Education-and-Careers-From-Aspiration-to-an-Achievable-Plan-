@@ -1,0 +1,25 @@
+{
+  "widgetName": "Interview Readiness",
+  "prompt": "Generate interview preparation for the user's target career.",
+  "questions": {
+    "roleSpecific": 5,
+    "behavioral": 3,
+    "careerTransition": 2
+  },
+  "outputFields": [
+    "Question",
+    "WhatItTests",
+    "KeyPointsToInclude",
+    "SampleApproach"
+  ],
+  "practicalTask": "Generate one practical interview task relevant to the target role.",
+  "rules": [
+    "Do not invent work experience.",
+    "Keep questions relevant to the target role.",
+    "Handle career transitions respectfully."
+  ],
+  "inputReferences": [
+    "@Recommended Career Destination",
+    "@Career Assessment"
+  ]
+}
