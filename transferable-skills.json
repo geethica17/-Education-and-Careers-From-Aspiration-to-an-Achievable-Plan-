@@ -1,0 +1,21 @@
+{
+  "widgetName": "Transferable Skills",
+  "prompt": "Identify skills from the user's education and previous experience that can transfer to the recommended career.",
+  "categories": [
+    "Existing Strong Skills",
+    "Transferable Skills",
+    "Developing Skills",
+    "Priority Skill Gaps"
+  ],
+  "outputFields": [
+    "Skill",
+    "CurrentStatus",
+    "PreviousExperience",
+    "NewCareerUse",
+    "PracticeActivity"
+  ],
+  "inputReferences": [
+    "@Career Assessment",
+    "@Recommended Career Destination"
+  ]
+}
